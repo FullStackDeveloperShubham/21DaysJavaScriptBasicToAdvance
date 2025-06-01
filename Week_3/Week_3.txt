@@ -1,0 +1,45 @@
+🚀 Week 3: Advanced JavaScript (Days 15–21)
+Day 15 – Higher-Order Functions & Callbacks
+
+Functions as arguments & return values
+
+Practical use cases
+
+Day 16 – Asynchronous JavaScript
+
+setTimeout, setInterval
+
+Callback hell
+
+Day 17 – Promises
+
+Creating & consuming promises
+
+then, catch, finally
+
+Day 18 – Async/Await
+
+Writing clean async code
+
+Try/catch with async functions
+
+Day 19 – Fetch API & Working with APIs
+
+Making GET/POST requests
+
+JSON parsing & error handling
+
+Day 20 – Modules (ES6)
+
+import / export
+
+Using modules in projects (with bundlers or native support)
+
+Day 21 – Final Project / Review
+
+Build a mini project (e.g., Todo App or Weather App)
+
+Review key concepts
+
+GitHub push & walkthrough
+

@@ -1,0 +1,45 @@
+Day 1 – Introduction to JavaScript
+
+What is JavaScript?
+
+Setup: Browser + VS Code
+
+Console, comments, and basic syntax
+
+Day 2 – Variables & Data Types
+
+var, let, const
+
+Primitive types (String, Number, Boolean, null, undefined, Symbol)
+
+Day 3 – Operators & Expressions
+
+Arithmetic, comparison, logical, assignment
+
+Type coercion & conversion
+
+Day 4 – Control Flow
+
+if, else, else if, switch
+
+Ternary operator
+
+Day 5 – Loops
+
+for, while, do...while, for...of, for...in
+
+Loop control: break, continue
+
+Day 6 – Functions
+
+Function declarations & expressions
+
+Parameters, return values
+
+Arrow functions (ES6)
+
+Day 7 – Arrays Basics
+
+Creating arrays, accessing elements
+
+Common methods: push, pop, shift, unshift, splice, slice

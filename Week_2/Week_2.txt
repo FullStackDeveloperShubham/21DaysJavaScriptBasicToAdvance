@@ -1,0 +1,40 @@
+⚙️ Week 2: Intermediate Concepts (Days 8–14)
+Day 8 – Objects & Object Manipulation
+
+Properties, methods, this keyword
+
+Object destructuring (ES6)
+
+Day 9 – Array Methods
+
+map, filter, reduce, forEach, find
+
+Day 10 – DOM Manipulation (Browser Environment)
+
+Selecting elements (getElementById, querySelector)
+
+Changing content & styles, event listeners
+
+Day 11 – Events & Event Handling
+
+Click, keypress, form events
+
+addEventListener, event object
+
+Day 12 – ES6+ Features
+
+Template literals, spread/rest, default parameters
+
+Destructuring, shorthand syntax
+
+Day 13 – Scope & Hoisting
+
+Global, function, block scope
+
+Hoisting, TDZ (Temporal Dead Zone)
+
+Day 14 – Closures & Lexical Scope
+
+What is a closure?
+
+Practical closure examples (e.g., counter function)
