@@ -48,4 +48,4 @@ fruits.splice(2, 1, 'pear');
 slice(start, end)
 Returns a shallow copy of a portion of the array (end not included).
 
-const someFruits = fruits.slice(0, 2);  // ['apple', 'kiwi']
+const someFruits = fruits.slice(0, 2);  
