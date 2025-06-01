@@ -24,7 +24,7 @@ let
 
 let y = 10;
 y = 15; // OK
-// let y = 20; // ❌ SyntaxError: Identifier 'y' has already been declared
+// let y = 20; // ❌ : Identifier 'y' has already been declared
 
 const
 
