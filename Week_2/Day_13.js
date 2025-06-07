@@ -62,3 +62,13 @@ greet(); // ❌ TypeError: greet is not a function
 var greet = function() {
   console.log("Hi");
 };
+
+TDZ – Temporal Dead Zone
+A variable declared with let or const is in a "dead zone" from the start of the block to the line where it's declared.
+
+You cannot access the variable in the TDZ.
+
+{
+  console.log(x); // ❌ ReferenceError
+  let x = 5;
+}
