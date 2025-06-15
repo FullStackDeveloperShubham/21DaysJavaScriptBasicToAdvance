@@ -35,11 +35,5 @@ import / export
 
 Using modules in projects (with bundlers or native support)
 
-Day 21 – Final Project / Review
-
-Build a mini project (e.g., Todo App or Weather App)
-
-Review key concepts
-
-GitHub push & walkthrough
+Day 21 - Prototypes and Inheritance
 
